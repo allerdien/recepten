@@ -1,0 +1,10 @@
+Week 1
+mandag
+dinsdag
+woensdag
+donderdag
+vrijdag
+zaterdag
+zondag
+
+week 2 dinsdag woensdag donderdag vrijdag zaterdag maandag
